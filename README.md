@@ -3,6 +3,7 @@
 ## Notebooks
 
 [Subgame Solving for Imperfect-Information Games](https://github.com/nikogamulin/game-theory/blob/master/imperfect-information-game.ipynb)
+
 [Coordination Games with Enforced Cooperation](https://github.com/nikogamulin/game-theory/blob/master/cooperation-games.ipynb)
 
 ## Resources
